@@ -177,7 +177,8 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   display: none;
 }
 #header h4{
-  margin-bottom:0px; 
+  margin-bottom:0px;
+  background-color: white;
 }
 #header .visible{
   opacity: 1;
